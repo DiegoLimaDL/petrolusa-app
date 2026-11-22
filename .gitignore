@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules/
+
+# Build output
+/dist/
+/android/.gradle/
+/android/**/build/
+/android/local.properties
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local machine files
+.DS_Store
+*.log
+*.jks
+*.keystore

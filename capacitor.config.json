@@ -1,0 +1,6 @@
+{
+  "appId": "br.com.petrolusa.pedidos",
+  "appName": "PETROLUSA Pedidos",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
