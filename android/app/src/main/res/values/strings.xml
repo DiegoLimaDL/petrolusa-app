@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">PETROLUSA Pedidos</string>
-    <string name="title_activity_main">PETROLUSA Pedidos</string>
+    <string name="app_name">Petrolusa App</string>
+    <string name="title_activity_main">Petrolusa App</string>
     <string name="package_name">br.com.petrolusa.pedidos</string>
     <string name="custom_url_scheme">br.com.petrolusa.pedidos</string>
 </resources>

@@ -9,10 +9,10 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['logo-petrolusa.png'],
       manifest: {
-        name: 'PETROLUSA - Catálogo e Pedidos B2B',
-        short_name: 'PETROLUSA',
+        name: 'Petrolusa App',
+        short_name: 'Petrolusa App',
         description: 'Catálogo e pedidos B2B PETROLUSA',
-        theme_color: '#f97316',
+        theme_color: '#006341',
         background_color: '#ffffff',
         display: 'standalone',
         start_url: '/',
